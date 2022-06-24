@@ -24,6 +24,12 @@ The dataset used in this analysis is **credential**.
 
 # Result
 ## Summary
+1. **Metrics used**: Conversion uplift (%), to determine the impact of a campaign
+2. **Best campaign objective**: Promo, Education, and Announcement
+3. **Best campaign channel**: Push notification
+4. **Best campaign OS**: iOS/Android (Though Android has higher uninstall rate)
+5. **Unsuccessful campaign**: There are 11, e.g. Bitcoin Reminder (negative 
+conversion uplift), ‘21 Juta Bitcoin di Dunia’, ‘Usability Testing Invitation’, etc.
 
 ## Recommendation
 1. Use **‘Push Notification’** as the campaign’ **channels**. 
