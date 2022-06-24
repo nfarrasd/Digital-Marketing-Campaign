@@ -1,4 +1,4 @@
-# Marketing Campaign
+# Digital Marketing Campaign
 This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, with modifications in the syntaxes 
 (analyses methods and approaches) as well as the final report.
 
@@ -11,7 +11,7 @@ for future prospects.
 
 ## Problems
 Based on the data of BukaToko marketing campaign on February 2019, we want 
-to build a good marketing strategy for BukaToko’ next month marketing campaign
+to give **recommendations** and **build** a good **digital marketing strategy** for BukaToko’ next month marketing campaign
 
 ## Analytical Approaches
 1. To find the best campaign in January 2019.
@@ -20,4 +20,17 @@ to build a good marketing strategy for BukaToko’ next month marketing campaign
 4. To find campaign(s) which are not as successful as the test campaign.
 
 # Dataset
-The dataset used in this analysis is credential.
+The dataset used in this analysis is **credential**.
+
+# Result
+## Summary
+
+## Recommendation
+1. Use **‘Push Notification’** as the campaign’ **channels**. 
+2. **‘Promo’**, **‘Education’**, or **‘Announcement’** campaign(s) are **more likely** to **success** (have a good user 
+conversion rate).
+3. Marketing **team(s)** in charge of **‘Email’** campaign(s) must **re-research** the right **potential target users**
+and **CTA/contents** used in the email to decrease errors (including email dropped).
+4. Further **evaluation** on **“buy_success”** conversion event Campaigns are **recommended** (many errors).
+5. Further **inspection** (and maybe innovation) on **Android app’ push notification** feature are needed, 
+as the number of uninstalled users are incomparably higher compared to iOS
