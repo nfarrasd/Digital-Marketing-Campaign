@@ -1,6 +1,5 @@
 # Marketing Campaign
-This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, with some modification from me (syntaxes), 
-as well as the report (which is completely done by me).
+This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, with modifications in the syntaxes as well as the final report.
 
 # Business Understanding
 ## Background
