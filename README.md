@@ -18,3 +18,6 @@ to build a good marketing strategy for BukaToko’ next month marketing campaign
 2. To find the best campaign objective, channel, OS, and conversion event.
 3. To find the types of error that mostly happen to user.
 4. To find campaign(s) which are not as successful as the test campaign.
+
+# Dataset
+The dataset used in this analysis is credential.
