@@ -2,28 +2,28 @@
 This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, with modifications in the syntaxes 
 (analyses methods and approaches) as well as the final report.
 
-# Business Understanding
-## Background
+## Business Understanding
+### Background
 Marketing campaigns are sets of strategic and organized acts used by many companies to promote a 
 specific company goal, i.e. promoting their new products. By using various approaches and ca 
 combination of media, they then can locate their potential customers, and build a marketing strategy 
 for future prospects.
 
-## Problems
+### Problems
 Based on the data of BukaToko marketing campaign on February 2019, we want 
 to give **recommendations** and **build** a good **digital marketing strategy** for BukaToko’ next month marketing campaign
 
-## Analytical Approaches
+### Analytical Approaches
 1. To find the best campaign in January 2019.
 2. To find the best campaign objective, channel, OS, and conversion event.
 3. To find the types of error that mostly happen to user.
 4. To find campaign(s) which are not as successful as the test campaign.
 
-# Dataset
+## Dataset
 The dataset used in this analysis is **credential**.
 
-# Result
-## Summary
+## Result
+### Summary
 1. **Metrics used**: Conversion uplift (%), to determine the impact of a campaign
 2. **Best campaign objective**: Promo, Education, and Announcement
 3. **Best campaign channel**: Push notification
@@ -31,7 +31,7 @@ The dataset used in this analysis is **credential**.
 5. **Unsuccessful campaign**: There are 11, e.g. Bitcoin Reminder (negative 
 conversion uplift), ‘21 Juta Bitcoin di Dunia’, ‘Usability Testing Invitation’, etc.
 
-## Recommendation
+### Recommendation
 1. Use **‘Push Notification’** as the campaign’ **channels**. 
 2. **‘Promo’**, **‘Education’**, or **‘Announcement’** campaign(s) are **more likely** to **success** (have a good user 
 conversion rate).
