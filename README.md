@@ -2,6 +2,8 @@
 This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, with modifications in the syntaxes 
 (analyses methods and approaches) as well as the final report.
 
+Note: In case you can not see the .ipynb file, please go [here](https://drive.google.com/file/d/1ukJGWLPvEoih2Vxt4-pbNent5d63qMbX/view?usp=sharing).
+
 ## Business Understanding
 ### Background
 Marketing campaigns are sets of strategic and organized acts used by many companies to promote a 
